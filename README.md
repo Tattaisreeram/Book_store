@@ -1,4 +1,4 @@
-![Logo](🍃Spring_Book_Store_📚.png)
+
 ## 📝 Introduction
 
 The Online Book Store is a web application that allows users to browse, search,
